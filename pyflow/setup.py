@@ -34,7 +34,7 @@ from distutils.core import setup
 
 setup(
       name='pyFlow',
-      version='${VERSION}',
+      version='2.0.0',
       description='A lightweight parallel task engine',
       author='Chris Saunders',
       author_email='csaunders@illumina.com',
